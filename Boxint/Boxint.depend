@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1537926531 source:c:\users\xboxslim\documents\codeproject\boxint\arquivos.c
+	<stdio.h>
+
+1537795070 source:c:\users\xboxslim\documents\codeproject\boxint\testgetchar.c
+	<stdio.h>
+
+1537824451 source:c:\users\xboxslim\documents\codeproject\boxint\seeking.c
+	<stdio.h>
+
+1538862297 source:c:\users\xboxslim\documents\codeproject\boxint\mapa.c
+	<stdio.h>
+
