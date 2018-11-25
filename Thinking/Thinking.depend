@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\xboxslim\documents\github\alohomora\thinking\main.c
+	<stdio.h>
+	<stdlib.h>
+
